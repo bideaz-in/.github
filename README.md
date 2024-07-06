@@ -1,3 +1,4 @@
+ 
 # [bideaz.in](https://bideaz.in) | Business Intelligence de A a Z Inteligência de Negócios
 ```
 ██████  ██ ██████  ███████  █████  ███████    ██ ███    ██
